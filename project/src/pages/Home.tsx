@@ -42,7 +42,7 @@ const FEATURED_PRODUCTS = [
     description: "Aged premium basmati rice with long grains.",
     price: 230,
     category: "Grains",
-    image: "/project/public/images/rice-3506194_1920.jpg",
+    image: "/images/rice-3506194_1920.jpg",
     weight: "1kg",
     inStock: true,
   },
